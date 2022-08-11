@@ -1,7 +1,7 @@
 #### Netology JAVA Developer course Homeworks
 
 ##### Курсовая работа
-[Конвертер в текстовую графику](https://github.com/Kubetskiy/java-diplom)
+[Конвертер в текстовую графику](https://github.com/Kubetskiy/NetologyHomework-JavaDiplom)
 
 
 
