@@ -1,4 +1,9 @@
-### Hi there 👋
+### Netology JAVA Developer course Homeworks
+
+# Курсовая работа
+[Конвертер в текстовую графику](https://github.com/Kubetskiy/java-diplom)
+
+
 
 <!--
 **Kubetskiy/Kubetskiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
