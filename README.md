@@ -9,8 +9,8 @@
 6. [Generics в коллекциях и методах](https://github.com/Kubetskiy/NetologyHomeworks-Generics)
 7. [Коллекции List](https://github.com/Kubetskiy/NetologyHomeworks-Lists)
 8. [Коллекции Queue](https://github.com/Kubetskiy/NetologyHomeworks-QUEUE)
-9.1[Коллекция HashMap и HashSet #1](https://github.com/Kubetskiy/NetologyHomework-Hash-Task1)
-9.2[Коллекция HashMap и HashSet #2](https://github.com/Kubetskiy/NetologyHomework-Hash-Task2)
+9. [Коллекция HashMap и HashSet #1](https://github.com/Kubetskiy/NetologyHomework-Hash-Task1)
+9. [Коллекция HashMap и HashSet #2](https://github.com/Kubetskiy/NetologyHomework-Hash-Task2)
 10. [Коллекции TreeMap и TreeSet]()
 
 
