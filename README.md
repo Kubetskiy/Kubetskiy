@@ -14,8 +14,8 @@
 - [Коллекции TreeMap и TreeSet](https://github.com/Kubetskiy/Netology-Homework-Tree)
 ##### JavaCore
 - [Лямбда-выражения и функциональные интерфейсы](https://github.com/Kubetskiy/NetologyHomework-Lambda)
+- [Stream API. Потоки, повторные вызовы, основные методы](https://github.com/Kubetskiy/StreamAPI)
 <!--
-- Stream API. Потоки, повторные вызовы, основные методы
 - Потоки ввода-вывода. Работа с файлами. Сериализация
 - Сборка проектов. Maven и Gradle
 - Работа с файлами CSV, XML, JSON
