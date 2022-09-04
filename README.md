@@ -18,8 +18,8 @@
 - [Потоки ввода-вывода. Работа с файлами. Сериализация](https://github.com/Kubetskiy/NetologyHomework-Serialization)
 - [Сборка проектов. Maven и Gradle. #1 (Maven)](https://github.com/Kubetskiy/NetologyHomeworks-Maven)
 - [Сборка проектов. Maven и Gradle. #2 (Gradle)](https://github.com/Kubetskiy/NetologyHomeworks-Gradle)
-<!--
 - Работа с файлами CSV, XML, JSON
+<!--
 - Тестирование кода и Unit-тесты
 - Mockito. Мокирование вызовов
 - Основы работы с сетью. Модель OSI
