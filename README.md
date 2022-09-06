@@ -18,7 +18,7 @@
 - [Потоки ввода-вывода. Работа с файлами. Сериализация](https://github.com/Kubetskiy/NetologyHomework-Serialization)
 - [Сборка проектов. Maven и Gradle. #1 (Maven)](https://github.com/Kubetskiy/NetologyHomeworks-Maven)
 - [Сборка проектов. Maven и Gradle. #2 (Gradle)](https://github.com/Kubetskiy/NetologyHomeworks-Gradle)
-- Работа с файлами CSV, XML, JSON
+- [Работа с файлами CSV, XML, JSON, #2](https://github.com/Kubetskiy/NetologyHomework-XML_JSON_CSV/tree/json_with_settings)
 <!--
 - Тестирование кода и Unit-тесты
 - Mockito. Мокирование вызовов
