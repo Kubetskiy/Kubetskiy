@@ -24,8 +24,8 @@
 - [Сборка проектов. Maven и Gradle. #1 (Maven)](https://github.com/Kubetskiy/NetologyHomeworks-Maven)
 - [Сборка проектов. Maven и Gradle. #2 (Gradle)](https://github.com/Kubetskiy/NetologyHomeworks-Gradle)
 - [Работа с файлами CSV, XML, JSON, #2](https://github.com/Kubetskiy/NetologyHomework-XML_JSON_CSV/tree/json_with_settings)
+- [Тестирование кода и Unit-тесты](https://github.com/Kubetskiy/NetologyHomework-JUnit)
 <!--
-- Тестирование кода и Unit-тесты
 - Mockito. Мокирование вызовов
 - Основы работы с сетью. Модель OSI
 - Протокол HTTP. Вызовы удаленных серверов
