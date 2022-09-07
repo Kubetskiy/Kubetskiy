@@ -1,3 +1,8 @@
+#### Сертификаты
+- [Основы SQL](https://github.com/Kubetskiy/Kubetskiy/blob/main/certificate%20SQL.pdf)
+- [Разработка мобильных приложений с нуля](https://github.com/Kubetskiy/Kubetskiy/blob/main/certificate%20Android.pdf)
+- [Основы программирования на Python](https://github.com/Kubetskiy/Kubetskiy/blob/main/certificate%20Phyton.pdf)
+
 #### Netology JAVA Developer course Homeworks
 
 ##### Курсовая работа
