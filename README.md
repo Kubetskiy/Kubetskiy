@@ -25,17 +25,17 @@
 - [Сборка проектов. Maven и Gradle. #2 (Gradle)](https://github.com/Kubetskiy/NetologyHomeworks-Gradle)
 - [Работа с файлами CSV, XML, JSON, #2](https://github.com/Kubetskiy/NetologyHomework-XML_JSON_CSV/tree/json_with_settings)
 - [Тестирование кода и Unit-тесты](https://github.com/Kubetskiy/NetologyHomework-JUnit)
-<!--
-- Mockito. Мокирование вызовов
-- Основы работы с сетью. Модель OSI
-- Протокол HTTP. Вызовы удаленных серверов
-- JVM. Организация памяти, сборщики мусора, VisualVM
+- [Mockito. Мокирование вызовов](https://github.com/Kubetskiy/NetologyHomework-Mockito)
+- [Основы работы с сетью. Модель OSI](https://github.com/Kubetskiy/NetologyHomework-OSI)
+- Протокол HTTP. Вызовы удаленных серверов](https://github.com/Kubetskiy/NetologyHomework-HTTP)
+- [JVM. Организация памяти, сборщики мусора, VisualVM](https://github.com/Kubetskiy/NetologyHomework-JVM)
 
 ##### Шаблоны проектирования
 - Порождающие шаблоны. Builder, Singleton, Factory Method, Abstract Factory, Prototype
 - Структурные шаблоны. Adapter, Proxy, Decorator, Facade, Flyweight
 - Поведенческие шаблоны. Command, CoR, Observer, Iterator
 - Magics, DRY, SOLID
+<!--
 -->
 
 
