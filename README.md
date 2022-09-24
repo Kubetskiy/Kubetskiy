@@ -27,7 +27,7 @@
 - [Тестирование кода и Unit-тесты](https://github.com/Kubetskiy/NetologyHomework-JUnit)
 - [Mockito. Мокирование вызовов](https://github.com/Kubetskiy/NetologyHomework-Mockito)
 - [Основы работы с сетью. Модель OSI](https://github.com/Kubetskiy/NetologyHomework-OSI)
-- Протокол HTTP. Вызовы удаленных серверов](https://github.com/Kubetskiy/NetologyHomework-HTTP)
+- [Протокол HTTP. Вызовы удаленных серверов](https://github.com/Kubetskiy/NetologyHomework-HTTP)
 - [JVM. Организация памяти, сборщики мусора, VisualVM](https://github.com/Kubetskiy/NetologyHomework-JVM)
 
 ##### Шаблоны проектирования
