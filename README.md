@@ -32,7 +32,7 @@
 
 ##### Шаблоны проектирования
 - [Порождающие шаблоны. Builder, Singleton, Factory Method, Abstract Factory, Prototype](https://github.com/Kubetskiy/NetologyHomework-CreationalDesignPattern)
-- Структурные шаблоны. Adapter, Proxy, Decorator, Facade, Flyweight
+- [Структурные шаблоны. Adapter, Proxy, Decorator, Facade, Flyweight](https://github.com/Kubetskiy/NetologyHomework-Adapter)
 - Поведенческие шаблоны. Command, CoR, Observer, Iterator
 - Magics, DRY, SOLID
 <!--
