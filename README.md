@@ -31,7 +31,7 @@
 - [JVM. Организация памяти, сборщики мусора, VisualVM](https://github.com/Kubetskiy/NetologyHomework-JVM)
 
 ##### Шаблоны проектирования
-- Порождающие шаблоны. Builder, Singleton, Factory Method, Abstract Factory, Prototype
+- [Порождающие шаблоны. Builder, Singleton, Factory Method, Abstract Factory, Prototype](https://github.com/Kubetskiy/NetologyHomework-CreationalDesignPattern)
 - Структурные шаблоны. Adapter, Proxy, Decorator, Facade, Flyweight
 - Поведенческие шаблоны. Command, CoR, Observer, Iterator
 - Magics, DRY, SOLID
