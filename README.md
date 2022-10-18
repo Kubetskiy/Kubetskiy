@@ -30,6 +30,10 @@
 - [Протокол HTTP. Вызовы удаленных серверов](https://github.com/Kubetskiy/NetologyHomework-HTTP)
 - [JVM. Организация памяти, сборщики мусора, VisualVM](https://github.com/Kubetskiy/NetologyHomework-JVM)
 
+
+##### Курсовая работа
+[ «Менеджер личных финансов»](https://github.com/Kubetskiy/NetologyHomework-Purchase_Analysis)
+
 ##### Шаблоны проектирования
 - [Порождающие шаблоны. Builder, Singleton, Factory Method, Abstract Factory, Prototype](https://github.com/Kubetskiy/NetologyHomework-CreationalDesignPattern)
 - [Структурные шаблоны. Adapter, Proxy, Decorator, Facade, Flyweight](https://github.com/Kubetskiy/NetologyHomework-Adapter)
