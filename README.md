@@ -38,8 +38,18 @@
 - [Порождающие шаблоны. Builder, Singleton, Factory Method, Abstract Factory, Prototype](https://github.com/Kubetskiy/NetologyHomework-CreationalDesignPattern)
 - [Структурные шаблоны. Adapter, Proxy, Decorator, Facade, Flyweight](https://github.com/Kubetskiy/NetologyHomework-Adapter)
 - [Поведенческие шаблоны. Command, CoR, Observer, Iterator](https://github.com/Kubetskiy/NetologyHomework-Iterator)
-- Magics, DRY, SOLID
+- [Magics, DRY, SOLID](https://github.com/Kubetskiy/NetologyHomework-SOLID)
+
+##### Курсовая работа
+[ «Менеджер задач»](https://github.com/Kubetskiy/NetologyCoursework-TaskManager)
+
+##### Дипломная работа
+[ «Поисковая система»](https://github.com/Kubetskiy/NetologyGraduatework-SearchSystem)
+
 <!--
+
+
+
 -->
 
 
