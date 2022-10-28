@@ -3,8 +3,10 @@
 - [Разработка мобильных приложений с нуля](https://github.com/Kubetskiy/Kubetskiy/blob/main/certificate%20Android.pdf)
 - [Основы программирования на Python](https://github.com/Kubetskiy/Kubetskiy/blob/main/certificate%20Phyton.pdf)
 
-#### Netology JAVA Developer course Homeworks
+#### Учебный код с курсов
+- [Netology JAVA Developer Homeworks, Courseworks and Graduatework](https://github.com/Kubetskiy/Kubetskiy/blob/main/Netology.md)
 
+<!--
 ##### Курсовая работа
 [Конвертер в текстовую графику](https://github.com/Kubetskiy/NetologyHomework-JavaDiplom)
 ##### Основы Git и Java
@@ -45,12 +47,8 @@
 
 ##### Дипломная работа
 [ «Поисковая система»](https://github.com/Kubetskiy/NetologyGraduatework-SearchSystem)
-
-<!--
-
-
-
 -->
+
 
 
 
