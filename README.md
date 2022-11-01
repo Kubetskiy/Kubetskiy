@@ -1,11 +1,7 @@
 #### Сертификаты
 - Диплом о профессиональной переподготовке - Java разработчик.
 Профстандарт: Разработчик Web и мультимедийных приложений
-
-<!--
-
--->
-
+- [Сертифика о прохождении обучения JAVA](https://github.com/Kubetskiy/Kubetskiy/blob/main/certificate%20JAVA.pdf)
 - [Основы SQL](https://github.com/Kubetskiy/Kubetskiy/blob/main/certificate%20SQL.pdf)
 - [Разработка мобильных приложений с нуля](https://github.com/Kubetskiy/Kubetskiy/blob/main/certificate%20Android.pdf)
 - [Основы программирования на Python](https://github.com/Kubetskiy/Kubetskiy/blob/main/certificate%20Phyton.pdf)
