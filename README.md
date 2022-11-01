@@ -1,4 +1,7 @@
 #### Сертификаты
+![CertificateJAVA(25%)](https://user-images.githubusercontent.com/106117885/199251910-98986a9d-3104-4e68-88cb-a3900470a323.jpg)
+![CertificateSQL(25%)](https://user-images.githubusercontent.com/106117885/199254923-cf0c0b2a-5648-4828-89e2-994c9c1cf944.jpg)
+
 - Диплом о профессиональной переподготовке - Java разработчик.
 Профстандарт: Разработчик Web и мультимедийных приложений
 - [Сертифика о прохождении обучения JAVA](https://github.com/Kubetskiy/Kubetskiy/blob/main/certificate%20JAVA.pdf)
