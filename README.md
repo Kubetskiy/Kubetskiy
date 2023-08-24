@@ -1,4 +1,5 @@
 #### Сертификаты
+![1С Программист](https://github.com/Kubetskiy/Kubetskiy/blob/main/1%D0%A1-%D0%A2%D0%93%D0%A3-%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC-50%25.jpg)
 ![CertificateJAVA(25%)](https://user-images.githubusercontent.com/106117885/199251910-98986a9d-3104-4e68-88cb-a3900470a323.jpg)
 ![CertificateSQL(25%)](https://user-images.githubusercontent.com/106117885/199254923-cf0c0b2a-5648-4828-89e2-994c9c1cf944.jpg)
 
